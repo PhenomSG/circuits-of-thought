@@ -8,4 +8,4 @@ plotly
 torch
 torchvision
 tqdm
-transformer-lens
+transformer-lens<4
