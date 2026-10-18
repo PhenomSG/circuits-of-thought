@@ -1,0 +1,11 @@
+circuitsvis
+einops
+eindex
+ipython
+jaxtyping
+numpy
+plotly
+torch
+torchvision
+tqdm
+transformer-lens
